@@ -1,13 +1,13 @@
 <template>
-  <Tictac/>  
+  <Root/>  
 </template>
 
 <script>
-import Tictac from './components/Tictac.vue';
+import Root from './components/Root.vue';
 export default {
   name: 'App',
   components: {
-    Tictac
+    Root
   }
 }
 </script>

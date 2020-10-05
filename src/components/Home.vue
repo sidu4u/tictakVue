@@ -13,7 +13,7 @@ import {mapState,mapActions} from 'vuex';
 import Player from './Player.vue';
 import Row from './Row.vue';
 export default {
-    name:'Tictac',
+    name:'Home',
     components:{
         Row,
         Player
